@@ -1,0 +1,33 @@
+Alex Cramer
+ECS 102
+5/3/18
+
+I looked up the rules to play connect four on Board Games Capitol.
+
+I talked about possible project ideas with Brendan Ciarlone.
+
+Eli Clark helped me figure out how to make the game board.
+
+Professor Baruch helped me figure out how to code the board using vertline and horline.
+
+Eli Clark helped me fix a recurring error I was having with my switch_game function.
+
+Justine and I talked about how to switch turns in my game.
+
+Professor Barush helped me understand how to get my board pieces to stack instead of replacing one another.
+
+Professor Baruch helped me figure out why my input file wasn’t working. 
+
+Brendan Ciarlone helped me think of ways to make new functions to clean up my code. 
+
+Yufeng helped me understand why my switch statement wasn’t working.
+
+Eli Clark helped me figure out why I couldn’t enter in player 1 and player 2 as names. 
+
+I used Stack Overflow to learn how to generate random letters instead of integers. 
+
+Professor Baruch helped me figure out how I could check who won my connect four game. 
+
+Yufeng helped me create a computer to play against using a random number generator.
+
+Professor Baruch helped me set up my sort function.
